@@ -3,7 +3,7 @@
 
 </div>
 
-- 👋 Hi, I’m a devops engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Pakistan
+- 👋 Hi, I’m a devops engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Pakistan :pakistan:
 - 👀 I’m interested in devops & devsecops
 - 🌱 I’m currently learning devsecops 
 - 💞️ I’m looking to collaborate on prompt engineering
