@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning devsecops 
 - 💞️ I’m looking to collaborate on prompt engineering
 - 📫 How to reach me waqas013075@gmail.com
-- 😄 Pronouns: ...
+- 😄 All of my projects are available at https://github.com/waqas-png/
 - ⚡ Fun fact: Writing blogs, wathing footbal
 
 <!---
