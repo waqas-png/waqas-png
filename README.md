@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on prompt engineering
 - 📫 How to reach me waqas013075@gmail.com
 - 😄 All of my projects are available at https://github.com/waqas-png/
-- ⚡ Fun fact: Writing blogs, wathing footbal
+- ⚡ Know about my experiences https://www.linkedin.com/in/waqas-ahmad-cloud/details/experience/
 
 <!---
 waqas-png/waqas-png is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
